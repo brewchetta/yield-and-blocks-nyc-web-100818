@@ -4,7 +4,4 @@ def hello_t(["Tim", "Tom", "Jim"]) do |name|
   end
 end
 
-end
-
 # call your method here!
-
