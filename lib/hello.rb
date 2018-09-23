@@ -1,3 +1,3 @@
 def hello_t(names) do |name|
-    puts "Hi, #{name}"
+    puts "#{name}"
 end
